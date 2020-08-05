@@ -1,0 +1,14 @@
+{
+  "name": "me69",
+  "version": "1.0.0",
+  "description": "A bot made by The Lonely OwO",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Lonely OwO",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
